@@ -1,4 +1,4 @@
-first-project
-=============
+# First Project
 
-My first project
+## Main contributor
+Martin
